@@ -1,4 +1,4 @@
-# Raphael Rainha
+# Raphael Rainha Bandeira
 
 Building supervised AI workflows focused on:
 - operational continuity
